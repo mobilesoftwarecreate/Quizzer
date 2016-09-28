@@ -1,0 +1,6 @@
+{
+  "name": "Quizzer",
+  "tagline": "Solve quizzes on iPhone ",
+  "body": "# Quizzer\r\nSimple iPhone application to solve quizzes. Use CoreData, connect to json api by Alamofire and parse json by SwiftyJSON.\r\n\r\n## Requirements\r\n\r\n- iOS 9.0+ \r\n- Xcode 8.0+\r\n- Swift 3.0+\r\n\r\n## How to run\r\nProject is using [CocoaPods](https://guides.cocoapods.org/using/getting-started.html#toc_3), so run the following command:\r\n\r\n```bash\r\n$ pod install\r\n```\r\nin project directory. \r\nOpen Quizzer.xcworkspace and build.\r\n## Component Libraries\r\n- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.\r\n- [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift.\r\n- [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - An image library including image response serializers, `UIImage` and `UIImageView` extensions, custom image filters, an auto-purging in-memory cache and a priority-based image downloading system.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
